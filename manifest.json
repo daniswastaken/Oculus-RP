@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Oculus",
+		"description": "Do you feel like it's way too easy to get to The End dimension? This addon adds more eyes you need to collect before going to The End dimension!",
+		"uuid": "4d178eed-7618-4dee-873e-bd9ef1cc2486",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "be554d36-1ece-4f25-8ef8-a7f555d143be",
+			"version": [1, 0, 0]
+		}
+	],
+	"metadata": {
+		"authors": ["daniswastaken"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.0"]
+		}
+	},
+	"dependencies": [
+		{
+			"uuid": "ef35cc44-6418-48cb-8c58-c1fe0951c37d",
+			"version": [1, 0, 0]
+		}
+	]
+}
