@@ -3,10 +3,10 @@
 		"oculus:eye_of_wither": {
 			"textures": "textures/items/eye_of_wither.png"
 		},
-		"eye_of_elder": {
+		"oculus:eye_of_elder": {
 			"textures": "textures/items/eye_of_elder.png"
 		},
-		"eye_of_warden": {
+		"oculus:eye_of_warden": {
 			"textures": "textures/items/eye_of_warden.png"
 		}
 	}
